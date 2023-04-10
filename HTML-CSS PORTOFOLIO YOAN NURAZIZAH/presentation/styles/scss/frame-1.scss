@@ -1,0 +1,42 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 200rem;
+}.frame-1-BGk {
+  padding: 0rem 35.8rem 0rem 33.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: #3e4151;
+  box-sizing: border-box;
+
+  .homepage-desktop-1-tBA {
+    flex-shrink: 0;
+    margin-right: 6.3rem;
+    width: 62.3rem;
+    height: 121.6rem;
+    object-fit: cover;
+    vertical-align: top;
+  }
+  .homepage-desktop-2-QfJ {
+    width: 62.3rem;
+    height: 121.6rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+}

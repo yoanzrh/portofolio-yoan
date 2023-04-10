@@ -1,0 +1,982 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 238.6rem;
+}.cover-banh-uzY {
+  width: 100%;
+  height: 153rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #1b1a1a;
+}
+.cover-banh-uzY .frame-7-EX2 {
+  width: 49.9rem;
+  height: 56.85rem;
+  position: absolute;
+  left: 15.9rem;
+  top: 29.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cover-banh-uzY .frame-7-EX2 .portofolio-website-template-MLk {
+  max-width: 49.9rem;
+  display: flex;
+  font-size: 9.6rem;
+  font-weight: 800;
+  line-height: 1.265625;
+  letter-spacing: 0.0576rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.cover-banh-uzY .frame-7-EX2 .auto-group-hzdj-eqe {
+  box-sizing: border-box;
+  padding-top: 4.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .frame-7-EX2 .auto-group-hzdj-eqe .rectangle-1-Q48 {
+  margin-bottom: 2.95rem;
+  width: 19.1rem;
+  height: 0.8rem;
+  background-color: #d9d9d9;
+  background: linear-gradient(134.01deg, #3bf585 40.75%, #4ba8fe 90.52%);
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .frame-7-EX2 .auto-group-hzdj-eqe .frame-8-h3E {
+  margin-right: 20.3rem;
+  width: calc(100% - 20.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .frame-7-EX2 .auto-group-hzdj-eqe .frame-8-h3E .ico-1-376 {
+  margin-right: 1.2rem;
+  width: 11.4rem;
+  height: 9.7rem;
+  position: relative;
+  background-size: 104.041% 125.579%;
+  background-position: -0.1112rem -1.6721rem;
+  background-image: url('../assets/ico-1.png');
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .frame-7-EX2 .auto-group-hzdj-eqe .frame-8-h3E .yoannrzh-JHv {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 3.796875;
+  letter-spacing: 0.0192rem;
+  color: #ffffff;
+  font-family: Manrope, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .image-4-cJc {
+  width: 234.7rem;
+  height: 91.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cover-banh-uzY .homepage-desktop-M1J {
+  width: 144rem;
+  height: 304rem;
+  position: absolute;
+  left: 76rem;
+  top: 48rem;
+  overflow: hidden;
+  background-color: #272727;
+}
+.cover-banh-uzY .homepage-desktop-M1J .hi-im-yoan-nurazizah-fng {
+  width: 62.1rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 16rem;
+  font-size: 5.6rem;
+  font-weight: 700;
+  line-height: 1.2857142857;
+  letter-spacing: 0.1rem;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-banh-uzY .homepage-desktop-M1J .navbar-section-vyW {
+  width: 199.6rem;
+  height: 271.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-bottom: solid 0.1rem #4c4c4c;
+  box-sizing: border-box;
+}
+.cover-banh-uzY .homepage-desktop-M1J .navbar-section-vyW .auto-group-bnkr-SBA {
+  box-sizing: border-box;
+  padding: 2.6rem 15.7rem 2.6rem 15.1rem;
+  width: 144rem;
+  height: 16rem;
+  display: flex;
+  align-items: center;
+}
+.cover-banh-uzY .homepage-desktop-M1J .navbar-section-vyW .auto-group-bnkr-SBA .naufaldi-logo-jvx {
+  margin: 0rem 40.3rem 2.6rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .navbar-section-vyW .auto-group-bnkr-SBA .menu-navbar-SaU {
+  margin-bottom: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .navbar-section-vyW .auto-group-bnkr-SBA .menu-navbar-SaU .home-Nyv {
+  margin-right: 6.3rem;
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 5.03125;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .navbar-section-vyW .auto-group-bnkr-SBA .menu-navbar-SaU .sketch-tBa {
+  margin-right: 6.3rem;
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 5.03125;
+  letter-spacing: 0.1rem;
+  color: #d1d1d1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .navbar-section-vyW .auto-group-bnkr-SBA .menu-navbar-SaU .portofolio-DDr {
+  margin-right: 7.9rem;
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 5.03125;
+  letter-spacing: 0.1rem;
+  color: #d1d1d1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .navbar-section-vyW .auto-group-bnkr-SBA .menu-navbar-SaU .kata-kata-8rc {
+  margin-right: 7.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 5.03125;
+  letter-spacing: 0.1rem;
+  color: #d1d1d1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .navbar-section-vyW .auto-group-bnkr-SBA .menu-navbar-SaU .blog-FRS {
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 5.03125;
+  letter-spacing: 0.1rem;
+  color: #d1d1d1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr {
+  width: 109.9rem;
+  height: 275.8rem;
+  position: absolute;
+  left: 15rem;
+  top: 20.3rem;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW {
+  width: 109.9rem;
+  height: 263.9rem;
+  position: absolute;
+  left: 0;
+  top: 11.9rem;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .saya-adalah-seorang-di-bidang-desain-grafis-lahir-di-bandung-saya-lulusan-di-smkn-14-bandung-dengan-jurusan-animasi-saya-telah-memiliki-pengalaman-kerja-praktik-selama-3-bulan-di-bidang-desain-grafis-QxY {
+  margin: 0rem 0rem 37.6rem 22.9rem;
+  max-width: 87rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  letter-spacing: 0.0252rem;
+  color: #d5d5d5;
+  font-family: Inter, 'Source Sans Pro';
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .skill-Rck {
+  margin-bottom: 1.7rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E {
+  margin-bottom: 185.9rem;
+  height: 16.3rem;
+  display: flex;
+  align-items: center;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A {
+  margin-right: 14.1rem;
+  width: 56.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .what-i-do-section-ma8 {
+  width: 54.1rem;
+  height: 16.3rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .what-i-do-section-ma8 .item--Thr {
+  margin: 2.1rem 1.196rem 0rem 0rem;
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .what-i-do-section-ma8 .description-section-xec {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .what-i-do-section-ma8 .description-section-xec .auto-group-gnrw-iNt {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .what-i-do-section-ma8 .description-section-xec .auto-group-gnrw-iNt .photoshop-g4p {
+  margin-bottom: 1.9rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .what-i-do-section-ma8 .description-section-xec .auto-group-gnrw-iNt .picsart-ntY {
+  margin-left: 0.6rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .what-i-do-section-ma8 .description-section-xec .auto-group-jgfz-7R2 {
+  box-sizing: border-box;
+  padding: 2.1rem 0rem 0rem 16.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .what-i-do-section-ma8 .description-section-xec .auto-group-jgfz-7R2 .auto-group-7xtt-FGL {
+  margin: 0rem 2.496rem 1.939rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .what-i-do-section-ma8 .description-section-xec .auto-group-jgfz-7R2 .auto-group-7xtt-FGL .item--zDv {
+  margin-bottom: 5.5392rem;
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .what-i-do-section-ma8 .description-section-xec .auto-group-jgfz-7R2 .auto-group-7xtt-FGL .item--ivc {
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .what-i-do-section-ma8 .description-section-xec .auto-group-jgfz-7R2 .canva-GhE {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .filmora-Pmr {
+  width: 11.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 44.9rem;
+  top: 0.2rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-djfs-H9A .item--JP2 {
+  width: 3.804rem;
+  height: 3.3608rem;
+  position: absolute;
+  left: 0;
+  top: 11rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-tyjc-hRA {
+  margin: 2.1rem 4.196rem 1.939rem 0rem;
+  height: calc(100% - 4.0392rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-tyjc-hRA .item--Rc4 {
+  margin: 0rem 0rem 5.539rem 0.3rem;
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-tyjc-hRA .item--kPS {
+  margin-right: 0.3rem;
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-pvje-HeG {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-pvje-HeG .medibang-paint-THr {
+  margin-bottom: 1.9rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .auto-group-4c7i-k9E .auto-group-pvje-HeG .ibis-paintx-PBW {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .lets-connect-section-WX2 {
+  margin-right: 81.1rem;
+  width: calc(100% - 81.1rem);
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .lets-connect-section-WX2 .icon-list-3Wx {
+  margin: 1.9rem 2rem 2.1rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.75rem;
+  height: calc(100% - 4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .lets-connect-section-WX2 .icon-list-3Wx .group-1-xdv {
+  margin-right: 1.7rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .lets-connect-section-WX2 .icon-list-3Wx .group-2-V84 {
+  margin-right: 2.575rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .lets-connect-section-WX2 .icon-list-3Wx .facebook-ELY {
+  margin-bottom: 0.2rem;
+  width: 1.375rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biography-section-tDW .lets-connect-section-WX2 .yoannrzh-mbN {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #fafafa;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .yoan-removebg-preview-1-hzp {
+  width: 18.6105rem;
+  height: 23.8027rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cover-banh-uzY .homepage-desktop-M1J .bio-section-xKr .biografi-jgc {
+  width: 20.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 5.3rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi {
+  width: 112.404rem;
+  height: 28.4rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 49.4rem;
+  display: flex;
+  align-items: center;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .description-section-wXn {
+  width: 45.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .description-section-wXn .what-i-do-VZJ {
+  width: 14.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .description-section-wXn .menciptakan-visual-yang-komunikatif-menggunakan-elemen-elemen-seperti-gambar-warna-teks-dan-ilustrasi-moto-saya-menggabungkan-seni-dan-teknologi-menekankan-penggabungan-antara-elemen-seni-dan-teknologi-dalam-proses-desain-grafis-yang-menggabungkan-keahlian-kreatif-dan-teknis-11r {
+  width: 45.6rem;
+  height: 22.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  letter-spacing: 0.0252rem;
+  color: #eccece;
+  font-family: Inter, 'Source Sans Pro';
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC {
+  box-sizing: border-box;
+  padding: 2.1rem 0rem 3.4rem 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .web-dev-card-Wsi {
+  margin-right: 4.2rem;
+  width: 26.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .web-dev-card-Wsi .rectangle-9-THA {
+  width: 26.2rem;
+  height: 19rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  background-color: #323443;
+  border-radius: 1.2rem;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .web-dev-card-Wsi .group-2-ymJ {
+  width: 22.6rem;
+  height: 17.65rem;
+  position: absolute;
+  left: 1.75rem;
+  top: 5.25rem;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .web-dev-card-Wsi .group-2-ymJ .fun-art-vAk {
+  width: 6.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 7.95rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 4.5;
+  letter-spacing: 0.1rem;
+  color: #fafaf9;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .web-dev-card-Wsi .group-2-ymJ .menunjukkan-rasa-pengaguman-penghargaan-dan-dukungan-terhadap-karya-seni-dan-seniman-yang-mereka-sukai-bng {
+  width: 22.6rem;
+  height: 13rem;
+  position: absolute;
+  left: 0;
+  top: 4.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  letter-spacing: 0.1rem;
+  color: rgba(239, 237, 232, 0.6499999762);
+  font-family: Inter, 'Source Sans Pro';
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .web-dev-card-Wsi .group-91-ekx {
+  box-sizing: border-box;
+  padding: 2.07rem 2.16rem 2.17rem 2.16rem;
+  width: 7.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 0;
+  background-color: #323443;
+  border-radius: 3.6rem;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .web-dev-card-Wsi .group-91-ekx .globe-AjJ {
+  width: 2.88rem;
+  height: 2.96rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .ux-research-card-gxY {
+  margin: 0rem 3.8rem 0.2rem 0rem;
+  width: 26.3rem;
+  height: 22.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .ux-research-card-gxY .rectangle-9-pJ4 {
+  width: 26.3rem;
+  height: 19rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  background-color: #323443;
+  border-radius: 1.2rem;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .ux-research-card-gxY .group-2-Yjr {
+  width: 20.3rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 3.05rem;
+  top: 5.2rem;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .ux-research-card-gxY .group-2-Yjr .desain-grafis-gbA {
+  width: 12.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 4.5;
+  letter-spacing: 0.1rem;
+  color: #fafaf9;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .ux-research-card-gxY .group-2-Yjr .desain-grafis-melibatkan-unsur-unsur-kreativitas-inovasi-estetika-dan-keharmonisan-dalam-penyusunan-elemen-visual-Nyn {
+  width: 20.3rem;
+  height: 13rem;
+  position: absolute;
+  left: 0;
+  top: 4.5rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  letter-spacing: 0.1rem;
+  color: rgba(239, 237, 232, 0.6499999762);
+  font-family: Inter, 'Source Sans Pro';
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .ux-research-card-gxY .group-91-qMa {
+  width: 7.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .ux-research-card-gxY .clipboardlist-APr {
+  width: 2.16rem;
+  height: 2.96rem;
+  position: absolute;
+  left: 12.12rem;
+  top: 2.07rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cover-banh-uzY .homepage-desktop-M1J .what-i-do-section-2fi .auto-group-ds48-PYC .item--6HW {
+  margin-bottom: 6.5392rem;
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC {
+  width: 309rem;
+  height: 72.4rem;
+  position: absolute;
+  left: 15rem;
+  top: 107.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .auto-group-kr1n-ksr {
+  box-sizing: border-box;
+  padding-bottom: 6.6rem;
+  width: 100%;
+  height: 44.2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .auto-group-kr1n-ksr .featured-project-6Rv {
+  margin: 0rem 0rem 3.8rem 0.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .auto-group-kr1n-ksr .card-project-136 {
+  margin-right: 41.6rem;
+  width: calc(100% - 41.6rem);
+  height: 28.2rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .auto-group-kr1n-ksr .card-project-136 .auto-group-uy5z-L5N {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 2.0003rem 4.7024rem;
+  width: 55.5rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/thumbnail-project-pTr.png');
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .auto-group-kr1n-ksr .card-project-136 .auto-group-uy5z-L5N .misc06-GDv {
+  margin: 0rem 43.599rem 21.715rem 0rem;
+  width: 2.4964rem;
+  height: 2.4844rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .auto-group-kr1n-ksr .card-project-136 .auto-group-plbs-Zyi {
+  margin-top: 2rem;
+  width: 208.9rem;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .auto-group-kr1n-ksr .card-project-136 .auto-group-plbs-Zyi .fun-art-KCC {
+  margin-bottom: 2.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  letter-spacing: 0.1rem;
+  color: #dedede;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .auto-group-kr1n-ksr .card-project-136 .auto-group-plbs-Zyi .detail-project-Ea4 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .auto-group-kr1n-ksr .card-project-136 .auto-group-plbs-Zyi .detail-project-Ea4 .seni-penggemar-zp8 {
+  margin-bottom: 6rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .auto-group-kr1n-ksr .card-project-136 .auto-group-plbs-Zyi .detail-project-Ea4 .seni-penggemar-atau-biasa-disebut-fun-art-adalah-karya-seni-buatan-penggemar-dari-sebuah-karya-fiksi-umumnya-media-visual-seperti-komik-film-acara-televisi-dll-dan-berasal-dari-serangkaian-karakter-atau-aspek-lain-dari-karya-tersebut-KbW {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  letter-spacing: 0.0252rem;
+  color: #d4d4d4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .card-project-jfE {
+  width: 100%;
+  height: 28.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .card-project-jfE .thumbnail-project-tHE {
+  margin-right: 3rem;
+  width: 55.5rem;
+  height: 28.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .card-project-jfE .auto-group-5s7z-DaQ {
+  margin: 2rem 0;
+  width: 250.5rem;
+  height: calc(100% - 4rem);
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .card-project-jfE .auto-group-5s7z-DaQ .desain-grafis-ZPN {
+  margin-bottom: 3.15rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  letter-spacing: 0.1rem;
+  color: #dedede;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .card-project-jfE .auto-group-5s7z-DaQ .detail-project-V28 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .card-project-jfE .auto-group-5s7z-DaQ .detail-project-V28 .kerja-senang-desain-grafis-Sxx {
+  margin-bottom: 9.85rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .featured-projecti-section-pzC .card-project-jfE .auto-group-5s7z-DaQ .detail-project-V28 .desain-grafis-atau-rancang-grafis-adalah-proses-komunikasi-menggunakan-elemen-visual-seperti-tipografi-fotografi-serta-ilustrasi-yang-dimaksudkan-untuk-menciptakan-persepsi-akan-suatu-pesan-yang-disampaikan-bidang-ini-melibatkan-proses-komunikasi-visual-dan-desain-komunikasi-Zng {
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  letter-spacing: 0.0252rem;
+  color: #d4d4d4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg {
+  width: 114rem;
+  height: 76.5rem;
+  position: absolute;
+  left: 15rem;
+  top: 195.6rem;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .cuplikan-desain-grafis-58k {
+  margin-bottom: 3.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .auto-group-8nr4-Bha {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 28.5rem;
+  display: flex;
+  align-items: flex-start;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .auto-group-8nr4-Bha .auto-group-p7tl-ixQ {
+  margin-right: 3rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/thumbnail-snippet-ret.png');
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .auto-group-8nr4-Bha .auto-group-p7tl-ixQ .screenshot-194-1-5Y4 {
+  width: 55.5rem;
+  height: 28.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .auto-group-8nr4-Bha .auto-group-j5qa-oix {
+  margin-bottom: 0.3rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/thumbnail-snippet-7pC.png');
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .auto-group-8nr4-Bha .auto-group-j5qa-oix .screenshot-195-1-N1N {
+  width: 55.5rem;
+  height: 28.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .auto-group-jpgx-6TA {
+  margin-bottom: 2.9rem;
+  width: 100%;
+  height: 28.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .auto-group-jpgx-6TA .auto-group-nzvs-qfe {
+  margin-right: 3rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/thumbnail-snippet-skC.png');
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .auto-group-jpgx-6TA .auto-group-nzvs-qfe .photo2023-04-0715-28-11-1-QCx {
+  width: 55.5rem;
+  height: 27.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .auto-group-jpgx-6TA .auto-group-gvat-88x {
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/thumbnail-snippet-QJ4.png');
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .auto-group-jpgx-6TA .auto-group-gvat-88x .photo2023-04-0715-28-19-1-gwA {
+  width: 55.5rem;
+  height: 28.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .see-more-button-1Te {
+  margin-right: 97.5rem;
+  box-sizing: border-box;
+  padding: 0.9rem 2.2rem 0.9rem 2.3rem;
+  width: calc(100% - 97.5rem);
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #323443;
+  border-radius: 1.2rem;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .see-more-button-1Te .viewlist-5yJ {
+  margin-right: 3.4rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-banh-uzY .homepage-desktop-M1J .code-snippet-section-AGg .see-more-button-1Te .see-more-RGU {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  letter-spacing: 0.1rem;
+  color: #c8c8c8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

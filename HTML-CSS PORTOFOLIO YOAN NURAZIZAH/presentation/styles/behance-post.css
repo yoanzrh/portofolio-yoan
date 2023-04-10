@@ -1,0 +1,956 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.behance-post-Q7A {
+  box-sizing: border-box;
+  padding-bottom: 79rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #323443;
+}
+.behance-post-Q7A .auto-group-42j4-u3v {
+  margin: 0rem 0.1rem 396.6rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 304rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .desktop-version-D4c {
+  width: 49.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 47.2rem;
+  top: 9.2rem;
+  font-size: 5.6rem;
+  font-weight: 700;
+  line-height: 1.2857142857;
+  letter-spacing: 0.1rem;
+  color: #fafafa;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 {
+  width: 144rem;
+  height: 304rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #272727;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .hi-im-yoan-nurazizah-xgQ {
+  width: 62.1rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 15.3rem;
+  top: 16rem;
+  font-size: 5.6rem;
+  font-weight: 700;
+  line-height: 1.2857142857;
+  letter-spacing: 0.1rem;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .navbar-section-3Sx {
+  width: 199.6rem;
+  height: 271.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-bottom: solid 0.1rem #4c4c4c;
+  box-sizing: border-box;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .navbar-section-3Sx .auto-group-tuqx-axg {
+  box-sizing: border-box;
+  padding: 2.6rem 15.7rem 2.6rem 15.1rem;
+  width: 144rem;
+  height: 16rem;
+  display: flex;
+  align-items: center;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .navbar-section-3Sx .auto-group-tuqx-axg .naufaldi-logo-6w2 {
+  margin: 0rem 40.3rem 2.6rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.05rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .navbar-section-3Sx .auto-group-tuqx-axg .menu-navbar-QB2 {
+  margin-bottom: 2.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .navbar-section-3Sx .auto-group-tuqx-axg .menu-navbar-QB2 .home-YHE {
+  margin-right: 6.3rem;
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 5.03125;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .navbar-section-3Sx .auto-group-tuqx-axg .menu-navbar-QB2 .sketch-FSY {
+  margin-right: 6.3rem;
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 5.03125;
+  letter-spacing: 0.1rem;
+  color: #d1d1d1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .navbar-section-3Sx .auto-group-tuqx-axg .menu-navbar-QB2 .portofolio-B5J {
+  margin-right: 7.9rem;
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 5.03125;
+  letter-spacing: 0.1rem;
+  color: #d1d1d1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .navbar-section-3Sx .auto-group-tuqx-axg .menu-navbar-QB2 .kata-kata-hJY {
+  margin-right: 7.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 5.03125;
+  letter-spacing: 0.1rem;
+  color: #d1d1d1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .navbar-section-3Sx .auto-group-tuqx-axg .menu-navbar-QB2 .blog-cgQ {
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 5.03125;
+  letter-spacing: 0.1rem;
+  color: #d1d1d1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap {
+  width: 109.9rem;
+  height: 275.8rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 20.3rem;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t {
+  width: 109.9rem;
+  height: 263.9rem;
+  position: absolute;
+  left: 0;
+  top: 11.9rem;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .saya-adalah-seorang-di-bidang-desain-grafis-lahir-di-bandung-saya-lulusan-di-smkn-14-bandung-dengan-jurusan-animasi-saya-telah-memiliki-pengalaman-kerja-praktik-selama-3-bulan-di-bidang-desain-grafis-Bsv {
+  margin: 0rem 0rem 37.6rem 22.9rem;
+  max-width: 87rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  letter-spacing: 0.0252rem;
+  color: #d5d5d5;
+  font-family: Inter, 'Source Sans Pro';
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .skill-1MA {
+  margin-bottom: 1.7rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn {
+  margin-bottom: 185.9rem;
+  height: 16.3rem;
+  display: flex;
+  align-items: center;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN {
+  margin-right: 14.1rem;
+  width: 56.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .what-i-do-section-DTE {
+  width: 54.1rem;
+  height: 16.3rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .what-i-do-section-DTE .item--9Lt {
+  margin: 2.1rem 1.196rem 0rem 0rem;
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .what-i-do-section-DTE .description-section-eoS {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .what-i-do-section-DTE .description-section-eoS .auto-group-gyey-18C {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .what-i-do-section-DTE .description-section-eoS .auto-group-gyey-18C .photoshop-Mxk {
+  margin-bottom: 1.9rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .what-i-do-section-DTE .description-section-eoS .auto-group-gyey-18C .picsart-HLc {
+  margin-left: 0.6rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .what-i-do-section-DTE .description-section-eoS .auto-group-yu5w-PuS {
+  box-sizing: border-box;
+  padding: 2.1rem 0rem 0rem 16.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .what-i-do-section-DTE .description-section-eoS .auto-group-yu5w-PuS .auto-group-zkyj-iwi {
+  margin: 0rem 2.496rem 1.939rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .what-i-do-section-DTE .description-section-eoS .auto-group-yu5w-PuS .auto-group-zkyj-iwi .item--FRr {
+  margin-bottom: 5.5392rem;
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .what-i-do-section-DTE .description-section-eoS .auto-group-yu5w-PuS .auto-group-zkyj-iwi .item--P2G {
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .what-i-do-section-DTE .description-section-eoS .auto-group-yu5w-PuS .canva-X8U {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .filmora-3sW {
+  width: 11.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 44.9rem;
+  top: 0.2rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-lhmi-sPN .item--m2p {
+  width: 3.804rem;
+  height: 3.3608rem;
+  position: absolute;
+  left: 0;
+  top: 11rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-h9hs-JYY {
+  margin: 2.1rem 4.196rem 1.939rem 0rem;
+  height: calc(100% - 4.0392rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-h9hs-JYY .item--ESC {
+  margin: 0rem 0rem 5.539rem 0.3rem;
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-h9hs-JYY .item--kfS {
+  margin-right: 0.3rem;
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-shix-H9a {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-shix-H9a .medibang-paint-djE {
+  margin-bottom: 1.9rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .auto-group-unue-8Rn .auto-group-shix-H9a .ibis-paintx-kor {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .lets-connect-section-hDJ {
+  margin-right: 81.1rem;
+  width: calc(100% - 81.1rem);
+  height: 7.2rem;
+  display: flex;
+  align-items: center;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .lets-connect-section-hDJ .icon-list-dck {
+  margin: 1.9rem 2rem 2.1rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.75rem;
+  height: calc(100% - 4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .lets-connect-section-hDJ .icon-list-dck .group-1-khN {
+  margin-right: 1.7rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .lets-connect-section-hDJ .icon-list-dck .group-2-hMi {
+  margin-right: 2.575rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .lets-connect-section-hDJ .icon-list-dck .facebook-3Ag {
+  margin-bottom: 0.2rem;
+  width: 1.375rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biography-section-f8t .lets-connect-section-hDJ .yoannrzh-agQ {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #fafafa;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .yoan-removebg-preview-1-K8C {
+  width: 18.6105rem;
+  height: 23.8027rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .bio-section-Kap .biografi-SCp {
+  width: 20.5rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 5.3rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU {
+  width: 112.404rem;
+  height: 28.4rem;
+  position: absolute;
+  left: 15.3rem;
+  top: 49.4rem;
+  display: flex;
+  align-items: center;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .description-section-Ghe {
+  width: 45.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .description-section-Ghe .what-i-do-d2Q {
+  width: 14.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 2.5714285714;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .description-section-Ghe .menciptakan-visual-yang-komunikatif-menggunakan-elemen-elemen-seperti-gambar-warna-teks-dan-ilustrasi-moto-saya-menggabungkan-seni-dan-teknologi-menekankan-penggabungan-antara-elemen-seni-dan-teknologi-dalam-proses-desain-grafis-yang-menggabungkan-keahlian-kreatif-dan-teknis-jbE {
+  width: 45.6rem;
+  height: 22.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  letter-spacing: 0.0252rem;
+  color: #eccece;
+  font-family: Inter, 'Source Sans Pro';
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx {
+  box-sizing: border-box;
+  padding: 2.1rem 0rem 3.4rem 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .web-dev-card-2ik {
+  margin-right: 4.2rem;
+  width: 26.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .web-dev-card-2ik .rectangle-9-NXi {
+  width: 26.2rem;
+  height: 19rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  background-color: #323443;
+  border-radius: 1.2rem;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .web-dev-card-2ik .group-2-JRN {
+  width: 22.6rem;
+  height: 17.65rem;
+  position: absolute;
+  left: 1.75rem;
+  top: 5.25rem;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .web-dev-card-2ik .group-2-JRN .fun-art-2cG {
+  width: 6.7rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 7.95rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 4.5;
+  letter-spacing: 0.1rem;
+  color: #fafaf9;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .web-dev-card-2ik .group-2-JRN .menunjukkan-rasa-pengaguman-penghargaan-dan-dukungan-terhadap-karya-seni-dan-seniman-yang-mereka-sukai-7Np {
+  width: 22.6rem;
+  height: 13rem;
+  position: absolute;
+  left: 0;
+  top: 4.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  letter-spacing: 0.1rem;
+  color: rgba(239, 237, 232, 0.6499999762);
+  font-family: Inter, 'Source Sans Pro';
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .web-dev-card-2ik .group-91-AM6 {
+  box-sizing: border-box;
+  padding: 2.07rem 2.16rem 2.17rem 2.16rem;
+  width: 7.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 0;
+  background-color: #323443;
+  border-radius: 3.6rem;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .web-dev-card-2ik .group-91-AM6 .globe-4SU {
+  width: 2.88rem;
+  height: 2.96rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .ux-research-card-Zu2 {
+  margin: 0rem 3.8rem 0.2rem 0rem;
+  width: 26.3rem;
+  height: 22.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .ux-research-card-Zu2 .rectangle-9-tgQ {
+  width: 26.3rem;
+  height: 19rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  background-color: #323443;
+  border-radius: 1.2rem;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .ux-research-card-Zu2 .group-2-DTn {
+  width: 20.3rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 3.05rem;
+  top: 5.2rem;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .ux-research-card-Zu2 .group-2-DTn .desain-grafis-9sE {
+  width: 12.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 4.5;
+  letter-spacing: 0.1rem;
+  color: #fafaf9;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .ux-research-card-Zu2 .group-2-DTn .desain-grafis-melibatkan-unsur-unsur-kreativitas-inovasi-estetika-dan-keharmonisan-dalam-penyusunan-elemen-visual-FfN {
+  width: 20.3rem;
+  height: 13rem;
+  position: absolute;
+  left: 0;
+  top: 4.5rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  letter-spacing: 0.1rem;
+  color: rgba(239, 237, 232, 0.6499999762);
+  font-family: Inter, 'Source Sans Pro';
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .ux-research-card-Zu2 .group-91-7Sg {
+  width: 7.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .ux-research-card-Zu2 .clipboardlist-3r8 {
+  width: 2.16rem;
+  height: 2.96rem;
+  position: absolute;
+  left: 12.12rem;
+  top: 2.07rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .what-i-do-section-wQU .auto-group-gwv8-ixx .item--BBe {
+  margin-bottom: 6.5392rem;
+  width: 3.804rem;
+  height: 3.3608rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC {
+  width: 112.4rem;
+  height: 76.8rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 107.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .auto-group-nbxt-dZS {
+  box-sizing: border-box;
+  padding-bottom: 6.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .auto-group-nbxt-dZS .featured-project-aDn {
+  margin: 0rem 0rem 3.8rem 0.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .auto-group-nbxt-dZS .card-project-Upx {
+  margin-right: 0.3rem;
+  width: calc(100% - 0.3rem);
+  height: 28.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .auto-group-nbxt-dZS .card-project-Upx .auto-group-qwkg-pP2 {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 2.0003rem 4.7024rem;
+  width: 55.5rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/thumbnail-project-xFS.png');
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .auto-group-nbxt-dZS .card-project-Upx .auto-group-qwkg-pP2 .misc06-9w6 {
+  margin: 0rem 43.599rem 21.715rem 0rem;
+  width: 2.4964rem;
+  height: 2.4844rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .auto-group-nbxt-dZS .card-project-Upx .auto-group-c5yu-rac {
+  margin: 2rem 0;
+  width: 53.6rem;
+  height: calc(100% - 4rem);
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .auto-group-nbxt-dZS .card-project-Upx .auto-group-c5yu-rac .fun-art-zRv {
+  margin-bottom: 2.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  letter-spacing: 0.1rem;
+  color: #dedede;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .auto-group-nbxt-dZS .card-project-Upx .auto-group-c5yu-rac .detail-project-JxQ {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .auto-group-nbxt-dZS .card-project-Upx .auto-group-c5yu-rac .detail-project-JxQ .seni-penggemar-UM6 {
+  margin-bottom: 1.2rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .auto-group-nbxt-dZS .card-project-Upx .auto-group-c5yu-rac .detail-project-JxQ .seni-penggemar-atau-biasa-disebut-fun-art-adalah-karya-seni-buatan-penggemar-dari-sebuah-karya-fiksi-umumnya-media-visual-seperti-komik-film-acara-televisi-dll-dan-berasal-dari-serangkaian-karakter-atau-aspek-lain-dari-karya-tersebut-oPN {
+  max-width: 53.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  letter-spacing: 0.0252rem;
+  color: #d4d4d4;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .card-project-Dhz {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .card-project-Dhz .thumbnail-project-aoS {
+  margin-right: 3rem;
+  width: 55.5rem;
+  height: 28.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .card-project-Dhz .auto-group-icwc-Km2 {
+  margin-top: 2rem;
+  width: 53.9rem;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .card-project-Dhz .auto-group-icwc-Km2 .desain-grafis-GRN {
+  margin-bottom: 0.35rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  letter-spacing: 0.1rem;
+  color: #dedede;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .card-project-Dhz .auto-group-icwc-Km2 .detail-project-bTe {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .card-project-Dhz .auto-group-icwc-Km2 .detail-project-bTe .kerja-senang-desain-grafis-ZQU {
+  margin-bottom: 0.65rem;
+  max-width: 52.6rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .featured-projecti-section-7LC .card-project-Dhz .auto-group-icwc-Km2 .detail-project-bTe .desain-grafis-atau-rancang-grafis-adalah-proses-komunikasi-menggunakan-elemen-visual-seperti-tipografi-fotografi-serta-ilustrasi-yang-dimaksudkan-untuk-menciptakan-persepsi-akan-suatu-pesan-yang-disampaikan-bidang-ini-melibatkan-proses-komunikasi-visual-dan-desain-komunikasi-4s2 {
+  max-width: 53.9rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7777777778;
+  letter-spacing: 0.0252rem;
+  color: #d4d4d4;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg {
+  width: 114rem;
+  height: 76.5rem;
+  position: absolute;
+  left: 14.9rem;
+  top: 195.6rem;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .cuplikan-desain-grafis-ayn {
+  margin-bottom: 3.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: 0.1rem;
+  color: #ffffff;
+  font-family: Sora, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-9yqt-WcY {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 28.5rem;
+  display: flex;
+  align-items: flex-start;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-9yqt-WcY .auto-group-qjta-FKE {
+  margin-right: 3rem;
+  width: 55.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-9yqt-WcY .auto-group-qjta-FKE .thumbnail-snippet-Yp8 {
+  width: 55.5rem;
+  height: 28.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-9yqt-WcY .auto-group-qjta-FKE .screenshot-194-1-H12 {
+  width: 55.5rem;
+  height: 28.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-9yqt-WcY .auto-group-yrzu-ok4 {
+  margin-bottom: 0.3rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/thumbnail-snippet-XBe.png');
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-9yqt-WcY .auto-group-yrzu-ok4 .screenshot-195-1-xcx {
+  width: 55.5rem;
+  height: 28.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-zbsg-sjv {
+  margin-bottom: 2.9rem;
+  width: 100%;
+  height: 28.7rem;
+  display: flex;
+  align-items: flex-start;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-zbsg-sjv .auto-group-svjs-2Mv {
+  margin-right: 3rem;
+  height: 28.2rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/thumbnail-snippet-aRW.png');
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-zbsg-sjv .auto-group-svjs-2Mv .photo2023-04-0715-28-11-1-yHA {
+  width: 55.5rem;
+  height: 27.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-zbsg-sjv .auto-group-evxe-tf2 {
+  width: 55.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-zbsg-sjv .auto-group-evxe-tf2 .thumbnail-snippet-SgY {
+  width: 55.5rem;
+  height: 28.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .auto-group-zbsg-sjv .auto-group-evxe-tf2 .photo2023-04-0715-28-19-1-Bu2 {
+  width: 55.5rem;
+  height: 28.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .see-more-button-XCC {
+  margin-right: 97.5rem;
+  box-sizing: border-box;
+  padding: 0.9rem 2.2rem 0.9rem 2.3rem;
+  width: calc(100% - 97.5rem);
+  display: flex;
+  align-items: center;
+  background-color: #323443;
+  border-radius: 1.2rem;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .see-more-button-XCC .viewlist-3AY {
+  margin-right: 3.4rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .auto-group-42j4-u3v .homepage-desktop-4L8 .code-snippet-section-sJg .see-more-button-XCC .see-more-nP2 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.8571428571;
+  letter-spacing: 0.1rem;
+  color: #c8c8c8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.behance-post-Q7A .mentorship-mobile-5sv {
+  width: 32rem;
+  height: 157.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

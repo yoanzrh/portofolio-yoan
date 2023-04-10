@@ -1,0 +1,41 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 200rem;
+}.frame-1-BGk {
+  box-sizing: border-box;
+  padding: 0rem 35.8rem 0rem 33.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  background-color: #3e4151;
+}
+.frame-1-BGk .homepage-desktop-1-tBA {
+  margin-right: 6.3rem;
+  width: 62.3rem;
+  height: 121.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-1-BGk .homepage-desktop-2-QfJ {
+  width: 62.3rem;
+  height: 121.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
